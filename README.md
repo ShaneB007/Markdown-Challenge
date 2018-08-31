@@ -2,12 +2,12 @@
 
 #### H4 Header
 
-(https://www.google.com "Google's Homepage")
+(https://www.google.com)
 
 
-(https://github.com/adam-p/markdown-here/raw/master/src/common/images/pizza.png "Pizza")
+(https://github.com/adam-p/markdown-here/raw/master/src/common/images/pizza.png)
 
-(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi7r8LTmpjdAhVJ0oMKHUJyA-gQjRx6BAgBEAU&url=https%3A%2F%2Fwallpaperbrowse.com%2Fimages&psig=AOvVaw3LbmcmMmj6ECUKYudmDd7d&ust=1535836416834653)
+(https://wallpaperbrowse.com/media/images/soap-bubble-1958650_960_720.jpg)
 
 ```javascript
 var t = "Here is the sample text";
