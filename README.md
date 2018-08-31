@@ -6,7 +6,7 @@
 
 https://github.com/ShaneB007/Markdown-Challenge/blob/master/fileTwo.md
 
-(https://github.com/ShaneB007/Markdown-Challenge/blob/master/fileTwo.mdpizza.png)
+(https://github.com/ShaneB007/Markdown-Challenge/blob/master/pizza.png)
 
 (https://wallpaperbrowse.com/media/images/soap-bubble-1958650_960_720.jpg)
 
